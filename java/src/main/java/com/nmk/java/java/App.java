@@ -12,7 +12,7 @@ public class App
 
         System.out.println("Indians firstly and lastly Indian");
 
-        System.out.println("Happy Republic Day 2021 !!!!");
+        System.out.println("Happy Republic Day 2021 to All Indians!!!!");
 
                           
     }
