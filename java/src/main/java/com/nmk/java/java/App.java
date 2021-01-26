@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World welcome to java commited first test!" );
 
-        System.out.println("Indians firstly and lastly Indian");
+        System.out.println("Indians firstly and lastly Indian DR B.R. Ambedkar");
 
         System.out.println("Happy Republic Day 2021 !!!!");
 
